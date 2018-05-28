@@ -1,1 +1,1 @@
-# content_based_image_retrival
+Projeto Final - Processamento de Imagens
