@@ -1,6 +1,6 @@
 **Projeto Final - Processamento de Imagens**
 
-**Nome:** Aline Regina Becher 
+**Nome:** Aline Becher 
 
 
 **NUSP:** 10492388
