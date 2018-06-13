@@ -1,7 +1,8 @@
-**Projeto Final - Processamento de Imagens**
+**Disciplina: SCC-5830 PROCESSAMENTO DE IMAGENS 01/2018**
+
+**Professor: Dr. Moacir Antonelli Ponti (ICMC/USP)**
 
 **Nome:** Aline Becher 
-
 
 **NUSP:** 10492388
 
