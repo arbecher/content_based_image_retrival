@@ -26,3 +26,4 @@ Etapas de desenvolvimento:
 Para o desenvolvimento desta proposta será utilizado o dataset STL-10, com-
 posto por 100000 imagens em 10 classes distintas, disponivel em https://cs.stanford.edu/%7Eacoates/stl10/.
 
+![](dataset.png)
