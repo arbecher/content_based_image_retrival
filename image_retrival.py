@@ -5,10 +5,7 @@ import random
 from scipy.spatial import distance
 from stl10_input import *
 
-
-
-
-option  = 2
+option = 2  #Option=1 para ajuste gamma e option=2 para equalização de histogramas
 list_all_images = read_all_images("unlabeled_X.bin")
 g = 1.2    #para ajuste gamma
 batch = 100
@@ -125,13 +122,10 @@ for i in range(centers):
          ind = i
 
 
-
-
-
 indices = np.where(clusters == ind)
 
-mais_parecidas = images[indices, :]
-print(mais_parecidas.shape)
+return_images= images[indices, :]
+
 
 #
 #plt.imshow(images[1], cmap='gray')
@@ -140,5 +134,5 @@ print(mais_parecidas.shape)
 #plt.subplot(212)
 #plt.imshow(images[40], cmap='gray')
 #plt.subplot(224)
-plt.imshow(list_all_images[1000], cmap='gray')
-plt.show()
+#plt.imshow(list_all_images[1000], cmap='gray')
+#plt.show()
